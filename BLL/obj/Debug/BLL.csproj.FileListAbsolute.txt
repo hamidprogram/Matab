@@ -1,0 +1,14 @@
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\BLL.dll
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\BLL.pdb
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\BE.dll
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\DAL.dll
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\EntityFramework.dll
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\BE.pdb
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\DAL.pdb
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\DAL.dll.config
+D:\my progect\Matab\App\Matab\BLL\bin\Debug\EntityFramework.xml
+D:\my progect\Matab\App\Matab\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\my progect\Matab\App\Matab\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\my progect\Matab\App\Matab\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\my progect\Matab\App\Matab\BLL\obj\Debug\BLL.dll
+D:\my progect\Matab\App\Matab\BLL\obj\Debug\BLL.pdb

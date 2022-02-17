@@ -1,0 +1,6 @@
+D:\my progect\Matab\App\Matab\BE\bin\Debug\BE.dll
+D:\my progect\Matab\App\Matab\BE\bin\Debug\BE.pdb
+D:\my progect\Matab\App\Matab\BE\obj\Debug\BE.csprojAssemblyReference.cache
+D:\my progect\Matab\App\Matab\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\my progect\Matab\App\Matab\BE\obj\Debug\BE.dll
+D:\my progect\Matab\App\Matab\BE\obj\Debug\BE.pdb
